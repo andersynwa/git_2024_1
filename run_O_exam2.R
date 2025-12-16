@@ -1,5 +1,5 @@
 # Path to the "fun_O_exam2.R" file
 # getwd()
-file_path <- "insert path to fun_O_exam2.R file here"
+file_path <- "fun_O_exam2.R"
 source(file_path)
-flow_id("insert your flow ID here")
+flow_id("63")
